@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nijhum0101/nijhum0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&size=32
+&pause=1000
+&color=F75C7E
+&center=true
+&vCenter=true
+&width=850
+&lines=Hi+I'm+Noshin+Anjum+Nijhum+🦋;CSE+Student;Learning+OpenGL+%26+Algorithms)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+>
