@@ -22,7 +22,7 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nijhum0101&show_icons=true&theme=radical" />
 </p>
 
 
