@@ -26,9 +26,4 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijhum0101&theme=radical" />
-</p>
-
-
 
