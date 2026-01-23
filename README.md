@@ -49,8 +49,8 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 - 🔹 **Simple Calculator (java)**  
   A beginner-friendly project for logic building
 
--🔹 **To-Do List (Python)**
- A simple Python project to manage daily tasks and practice application logic.
+- 🔹 **To-Do List (Python)**
+  A simple Python project to manage daily tasks and practice application logic.
 
 - 🔹 **Basic Web Page (HTML)**  
   A simple static webpage using HTML
