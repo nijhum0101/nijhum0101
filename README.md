@@ -1,14 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?
-font=Fira+Code
-&size=32
-&pause=1000
-&color=F75C7E
-&center=true
-&vCenter=true
-&width=850
-&lines=Hi+I'm+Noshin+Anjum+Nijhum+🦋;CSE+Student;Learning+OpenGL+%26+Algorithms)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=800&lines=Hi👋+I'm+Noshin+Anjum+Nijhum)
 
 </div>
->
+
