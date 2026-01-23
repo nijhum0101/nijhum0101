@@ -22,8 +22,9 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nijhum0101&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijhum0101&theme=radical" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijhum0101&layout=compact&theme=radical" />
