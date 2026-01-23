@@ -39,3 +39,18 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 - 🧠 LeetCode: https://leetcode.com/___noshin/
 - 🍴 CodeChef: https://www.codechef.com/users/nijhum0101
 
+
+## 📂 Projects
+- 🔹 Car Game (Graphics Project)
+  A basic car game developed as part of a graphics course, implementing movement,      controls, and simple interactions.
+- 🔹 **Student Management System (Java)**  
+  A basic console-based project to practice OOP concepts
+
+- 🔹 **Simple Calculator (java)**  
+  A beginner-friendly project for logic building
+
+-🔹 **To-Do List (Python)**
+ A simple Python project to manage daily tasks and practice application logic.
+
+- 🔹 **Basic Web Page (HTML)**  
+  A simple static webpage using HTML
