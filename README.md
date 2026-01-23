@@ -21,5 +21,14 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
   <img src="https://skillicons.dev/icons?i=java,python,html,cpp,git,github" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nijhum0101&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijhum0101&layout=compact&theme=radical" />
+</p>
+
+
 
 
