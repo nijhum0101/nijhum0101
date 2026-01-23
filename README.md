@@ -34,7 +34,7 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 ## 🌐 Connect With Me
 - 💼 GitHub: https://github.com/nijhum0101
 - 📧 Email: nnoshinanjumnijhum@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/nijhum0101/
+- 💼 LinkedIn: https://www.linkedin.com/in/noshinnijhum/
 - 🧩 Codeforces: https://codeforces.com/profile/-nijhum01
 - 🧠 LeetCode: https://leetcode.com/___noshin/
 - 🍴 CodeChef: https://www.codechef.com/users/nijhum0101
