@@ -26,4 +26,10 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 </p>
 
 
+## 🌐 Connect With Me
+- 💼 GitHub: https://github.com/nijhum0101
+- 📧 Email: nnoshinanjumnijhum@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/nijhum0101/
+- 🧩 Codeforces: https://codeforces.com/profile/-nijhum01
+- 🧠 LeetCode: https://leetcode.com/___noshin/
 
