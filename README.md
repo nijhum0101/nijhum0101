@@ -22,6 +22,11 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijhum0101&layout=compact&theme=radical" />
 </p>
 
@@ -32,4 +37,5 @@ Undergrad CS Student | Aspiring Developer | Skill-Driven Learner
 - 💼 LinkedIn: https://www.linkedin.com/in/nijhum0101/
 - 🧩 Codeforces: https://codeforces.com/profile/-nijhum01
 - 🧠 LeetCode: https://leetcode.com/___noshin/
+- 🍴 CodeChef: https://www.codechef.com/users/nijhum0101
 
